@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyynavv&label=Profile%20views&color=0e75b6&style=flat" alt="heyynavv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/r_singh9910" target="blank"><img src="https://img.shields.io/twitter/follow/r_singh9910?logo=twitter&style=for-the-badge" alt="r_singh9910" /></a> </p>
-
 - 🔭 I’m currently working on [fully responsive portfolio website](https://heyyynav-portfolio.netlify.app/)
 
 - 🌱 I’m currently learning **React js , angular framework**
