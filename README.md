@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyynavv&label=Profile%20views&color=0e75b6&style=flat" alt="heyynavv" /> </p>
 
-- 🔭 I have created a [fully responsive portfolio website ~ which also includes my projects covered till date](https://heyynavv.github.io/Navneets-Site/)
+- 🔭 I have created a [fully responsive portfolio website ~](https://heyynavv.github.io/Navneets-Site/) which also includes my projects covered till date!
 
 - 🌱 I’m currently learning **React js , angular framework**
 
