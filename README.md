@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js , angular framework**
 
-- 📫 How to reach me **heyy.navv@gmail.com**
+- 📫 How to reach me **navneetxdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
